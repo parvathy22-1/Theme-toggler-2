@@ -76,9 +76,7 @@
 
 
 
-\##  **GitHub Repository**
 
-\[https://github.com/parvathy22-1/theme-toggler](https://github.com/parvathy22-1/theme-toggler)
 
 
 
