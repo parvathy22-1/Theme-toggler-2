@@ -68,6 +68,15 @@
 \- Console logs confirm successful switching
 
 \- No bugs or script conflicts observed
+##  Demo Screenshots
+
+**Before Toggle:**
+
+![Light Mode](Lightmode.png)
+
+**After Toggle:**
+
+![Dark Mode](Darkmode.png)
 
 
 
