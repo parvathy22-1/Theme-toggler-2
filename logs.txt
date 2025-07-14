@@ -1,0 +1,6 @@
+[INFO] Extension loaded successfully.
+[INFO] User clicked toggle button.
+[STATUS] Theme toggled to dark mode.
+[INFO] User clicked toggle button.
+[STATUS] Theme toggled to light mode.
+[INFO] No errors encountered during testing.
