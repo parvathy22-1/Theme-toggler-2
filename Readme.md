@@ -72,7 +72,7 @@
 
 **Before Toggle:**
 
-![Light Mode](Lightmode.png)
+![Light Mode](lightmode.png)
 
 **After Toggle:**
 
