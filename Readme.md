@@ -54,13 +54,8 @@
 
 \- `popup.js`: JavaScript logic to toggle themes
 
-\- `styles.css`: Popup styling
-
 \- `icons/`: Icon images for the extension
 
-\- `screenshots/`: Folder containing screenshots
-
-\- `logs.txt`: Log of user interactions (for demo/testing)
 
 
 
